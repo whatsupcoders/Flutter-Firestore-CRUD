@@ -1,16 +1,34 @@
 # fluttertodoapp
 
-A new Flutter project.
+Flutter Tutorial - Firestore CRUD with Flutter
+Flutter Tutorial - Firestore CRUD with Flutter Video series can be watched here https://youtu.be/ZGrmizhBF_s
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Please note that this is a continuation of my "Flutter Tutorial - Firestore with Flutter" series and I highly suggest you watch this video first. https://www.youtube.com/watch?v=R12ks4yDpMM
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+For more details about Gradient AppBar please watch my video series listed below - https://www.youtube.com/watch?v=LNHrg7D_MWo
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+For more details about Transaction Handler please refer the below link - https://medium.com/@frankpaepens/flutter-firestore-improved-example-85ce70e0d857
+
+<div style="text-align: center">
+    <table>
+        <tr>     
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-Firestore-CRUD/blob/master/assets/Screenshot_1555008954.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Firestore-CRUD/blob/master/assets/Screenshot_1555008994.png" width="200"/>
+            </td>     
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
